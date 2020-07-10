@@ -1,0 +1,3 @@
+4차 산업혁명 기반 SW기술 중 JAVA, ORACLE, C#.NET, NETWORK를 중심으로
+Business 영역인 Big-Data, Smart Factory, Security, IOT 분야까지 산업수요를 반영한 기업 친화적인 실무교육에 자신 있습니다.
+하지만, 빨리 가지 않겠습니다. 당신과 함께 천천히, 당신과 함께 멀리 가겠습니다.
